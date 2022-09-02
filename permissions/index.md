@@ -41,6 +41,7 @@
 ## Plugin Administration Permissions
 
 **_There are additional administrative permissions in the other sections._**
+
 | PERMISSION | TYPE | DESCRIPTION | COMMAND | COMMAND ALIAS |
 | --- | --- | --- | --- | --- |
 | `exaltedeconomy.command.admin` | **<span style="color: #cc0000">Admin</span>** | Allows the admin user to open the Exalted Economy control panel <span style="color: #3366ff;">(Note: Additional permissions are required to view content in this control panel, see "**Admin Permissions**" below)</span> | `/exaltedeconomy` | `/ee` |
@@ -152,7 +153,7 @@
 | `exaltedeconomy.playershop.editor` | **<span style="color: #33cc33">Player</span>** | Allows the player to edit their own shops. | `/pshop [Their Own Name]` | _[None]_ |
 | `exaltedeconomy.playershop.edit.inventory.command` | **<span style="color: #33cc33">Player</span>** | Allows the player to edit their own shop inventory through the use of a command. | *[None]* | _[None]_ |
 | `exaltedeconomy.playershop.edit.inventory.location` | **<span style="color: #33cc33">Player</span>** | Allows the player, while viewing the inventory of their shops, to move and relocate items. | _[None]_ | _[None]_ |
-| `exaltedeconomy.playershop.locations.new` | **<span style="color: #33cc33">Player</span>** | Allows the player to create an additional shop location, for shops that are assigned to physical blocks. | _[None]_ | _[None]_ |z
+| `exaltedeconomy.playershop.locations.new` | **<span style="color: #33cc33">Player</span>** | Allows the player to create an additional shop location, for shops that are assigned to physical blocks. | _[None]_ | _[None]_ |
 | `exaltedeconomy.playershop.stock.max.[max-stock]` | **<span style="color: #33cc33">Player</span>** | Modified the amount of items a player can list within their own shops. **<span style="color: #99cc00;">(Note: The `[max-stock]` should be replaced with a number.)</span>** | _[None]_ | _[None]_ |
 | `exaltedeconomy.playershop.rows.max.[max-rows]` | **<span style="color: #33cc33">Player</span>** | Limits the amount of inventory rows that the user may put their listed items. **<span style="color: #99cc00;">(Note: The `[max-rows]` should be replaced with a number. Min = 1, Max = 6)</span>** | _[None]_ | _[None]_ |
 | `exaltedeconomy.playershop.pages.max.[max-pages]` | **<span style="color: #33cc33">Player</span>** | Limits the amount of pages that the user can can use for their inventory. **<span style="color: #99cc00;">(Note: The `[max-pages]` should be replaced with a number.)</span>** | _[None]_ | _[None]_ |
