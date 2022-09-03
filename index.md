@@ -2,7 +2,6 @@
 layout: default
 title: Home and Features
 nav_order: 1
-has_children: true
 ---
 
 ![Exalted Economy](https://github.com/Jowcey/ExaltedEconomyWiki/blob/main/logo_exaltedeconomy_small.png?raw=true)

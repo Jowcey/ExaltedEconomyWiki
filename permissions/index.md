@@ -2,7 +2,6 @@
 layout: default
 title: Commands and Permissions
 nav_order: 2
-has_children: true
 ---
 
 # Exalted Economy Commands and Permissions
