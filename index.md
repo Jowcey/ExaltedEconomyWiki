@@ -29,7 +29,7 @@ has_children: true
 * <span style="color: orange;">**Integrated support for <span style="color: #00ccff">*Player Points*</span> and <span style="color: #00ccff">*Game Points*</span> plugins**</span>
 
 ## Currency
-* **<span style="color: orange;">Create and Customize <span style="color: #00ccff">*ITEM BASED PHYSICAL CURRENCY*</span> that works with <span style="color: #00ccff">*VAULT ECONOMY*</span>**
+* **<span style="color: orange;">Create and Customize</span> <span style="color: #00ccff">*ITEM BASED PHYSICAL CURRENCY*</span> <span style="color: orange;">that works with</span> <span style="color: #00ccff">*VAULT ECONOMY*</span>**
 * <span style="color: orange;">**Withdraw and Deposit Physical Currency to trade between players**</span> *\|* <span style="color: #33cc33">*or Transfer currency between Player Vault Balances!*</span>
 * <span style="color: orange;">**Unlimited Currencies**</span> *\|* <span style="color: #33cc33">*Create as many custom currency types as you want!*</span>
 
@@ -61,7 +61,7 @@ has_children: true
 ## Auction House
 * <span style="color: orange;">**Buy and Sell Items at the Auction House**</span>
 * <span style="color: orange;">**<span style="color: #00ccff">BUY NOW</span> and <span style="color: #00ccff">BID</span> sell modes**
-* **<span style="color: orange;">Sort Auctions by <span style="color: #00ccff"> *Oldest, Newest, Least Expensive, Most Expensive*</span>**
+* **<span style="color: orange;">Sort Auctions by</span> <span style="color: #00ccff">*Oldest, Newest, Least Expensive, Most Expensive*</span>**
 * <span style="color: orange;">**Customize the duration of your auctions**</span>
 * <span style="color: orange;">**The <span style="color: #00ccff">SEARCH FUNCTION</span> allows you to search for items in your auction house.**</span>
 * <span style="color: orange;">**Retrieve expired auction from the <span style="color: #00ccff"> EXPIRED</span> tab**</span>
