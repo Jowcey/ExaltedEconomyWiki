@@ -17,7 +17,9 @@
     - [Allow players the option to open Economy Windows via Commands](#allow-players-the-option-to-open-economy-windows-via-commands)
 
 ---
+
 ## Exalted Economy Permissions and Commands FAQ
+
 * **<span style="color: orange;">Question: `<PLUGIN>` is overriding a command from ExaltedEconomy, what can i do?!</span>**
     * *<span style="color: #99cc00;">Answer: Run the commands as follows instead `/<command>:<alias>`</span>*
 * **<span style="color: orange;">Question: Question</span>**
