@@ -42,7 +42,7 @@ has_children: true
 * <span style="color: orange;">**Select a custom currency for creatures and players to drop when defeated**</span>
 
 ## Banks
-* <span style="color: orange;">**Create</span> <span style="color: #00ccff">UNLIMITED BANKS**</span>
+* **<span style="color: orange;">Create</span> <span style="color: #00ccff">UNLIMITED BANKS</span>**
 * <span style="color: orange;">**Choose <span style="color: #00ccff">CUSTOM NAMES</span> for Banks**</span>
 * <span style="color: orange;">**Choose <span style="color: #00ccff">CUSTOM ICONS</span> for Banks**</span>
 * <span style="color: orange;">**Choose which</span> <span style="color: #00ccff">SPECIFIC CURRENCY</span> <span style="color: orange;">each bank accepts**</span>
