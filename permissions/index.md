@@ -29,12 +29,6 @@ has_children: true
 
 * **<span style="color: orange;">Question: `<PLUGIN>` is overriding a command from ExaltedEconomy, what can i do?!</span>**
     * *<span style="color: #99cc00;">Answer: Run the commands as follows instead `/<command>:<alias>`</span>*
-* **<span style="color: orange;">Question: Question</span>**
-    * *<span style="color: #99cc00;">Answer</span>*
-* **<span style="color: orange;">Question: Question</span>**
-    * *<span style="color: #99cc00;">Answer</span>*
-* **<span style="color: orange;">Question: Question</span>**
-    * *<span style="color: #99cc00;">Answer</span>*
 
 ---
 
