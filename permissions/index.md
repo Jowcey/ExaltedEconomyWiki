@@ -7,21 +7,15 @@ has_children: true
 
 # Exalted Economy Commands and Permissions
 
-- [Exalted Economy Commands and Permissions](#exalted-economy-commands-and-permissions)
-  - [Exalted Economy Permissions and Commands FAQ](#exalted-economy-permissions-and-commands-faq)
-  - [Misc Permissions](#misc-permissions)
-  - [Plugin Administration Permissions](#plugin-administration-permissions)
-  - [Shop Permissions](#shop-permissions)
-  - [Shop Tax Permissions](#shop-tax-permissions)
-  - [Bank Permissions](#bank-permissions)
-  - [Trade Permissions](#trade-permissions)
-  - [Currency Balance Permissions](#currency-balance-permissions)
-  - [Currency / Bank Interaction Permissions](#currency--bank-interaction-permissions)
-  - [Auction House Permissions](#auction-house-permissions)
-  - [Player Shop Permissions](#player-shop-permissions)
-  - [Suggested Permissions Setups](#suggested-permissions-setups)
-    - [Require Physical Interaction for all Economy Transactions](#require-physical-interaction-for-all-economy-transactions)
-    - [Allow players the option to open Economy Windows via Commands](#allow-players-the-option-to-open-economy-windows-via-commands)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 
 ---
 
