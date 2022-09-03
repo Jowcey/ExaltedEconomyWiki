@@ -1,3 +1,10 @@
+---
+layout: default
+title: Commands and Permissions
+nav_order: 2
+has_children: true
+---
+
 # Exalted Economy Commands and Permissions
 
 - [Exalted Economy Commands and Permissions](#exalted-economy-commands-and-permissions)
