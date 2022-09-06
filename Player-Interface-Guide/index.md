@@ -5,6 +5,15 @@ nav_order: 3
 ---
 # Guide for the Various Player Interfaces
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Admin Shop Interface
 
 Admin Shops can be accessed by using the following commands:
