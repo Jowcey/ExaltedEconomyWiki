@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Commands and Permissions
-nav_order: 2
+nav_order: 4
 ---
 
 # Exalted Economy Commands and Permissions

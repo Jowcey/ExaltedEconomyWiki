@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reference Guide for Players
-nav_order: 3
+nav_order: 2
 ---
 # Guide for the Various Player Interfaces
 
