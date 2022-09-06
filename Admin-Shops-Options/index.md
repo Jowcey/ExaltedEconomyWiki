@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Reference Guide for Players
+title: Creating and Managing Admin Shops
 nav_order: 6
 ---
-# Guide for the Various Player Interfaces
+# Creating and Managing your Admin Shops
 
 <details open markdown="block">
   <summary>
